@@ -3,7 +3,7 @@
 import time
 import datetime
 
-from Adafruit_LED_Backpack import SevenSegment
+import SevenSegment
 
 # ===========================================================================
 # Clock Example
